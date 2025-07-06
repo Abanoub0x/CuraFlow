@@ -1,6 +1,5 @@
-<H1>Download project.zip folder</H1>
-<H1>Extract it using WinRAR</H1>
-<H1>Make sure you have Vs Code installed with C++ configured</H1>
-<H1>Run proj.sln file</H1>
-
-
+<H3>Download project.zip folder</H3>
+<H3>Extract it using WinRAR</H3>
+<H3>Make sure you have Vs Code installed with C++ configured</H3>
+<H3>Run proj.sln file</H3>
+<H1>I need your opinion</H1>
